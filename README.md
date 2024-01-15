@@ -20,8 +20,17 @@ Using real-life and synthetic datasets and comparing with the state-of-the-art a
 
 ## Execution Steps
 We divide the GDD mining process into the following three steps: 
-1. *Frequent Subgraph Mining*:
+1. **Frequent Subgraph Mining**:
    - input data in folder: `resource/`
    - output data in the folder: `test/process_1_producer/queryGraph`
    - run command: `java -jar GraMi_ExactSubgraphMatching-1.0-SNAPSHOT.jar filename=graph.lg datasetFolder=resource/ freq=20`
-   - parameter: `filename` refers to the target graph data file, `datasetFolder` indicates the folder where the graph data is located, `freq` set frequency threshold.
+   - parameters: `filename` refers to the target graph data file, `datasetFolder` indicates the folder where the graph data is located, `freq` set frequency threshold.
+2. **Homomorphic Subgraph Matching**:
+   - input data in folder: `test/process_1_producer/purePattern2`
+   - output data in the folder: `test/process_2_producer/pre_Table`
+   - run command: `java -jar graphflow-0.1.0.jar`
+3. **Dependency Mining**:
+   - input data in folder: `test/process_2_producer/pre_Table`
+   - output data in the folder: `result/`
+   - run command: `java -jar GEDdependencyMining-1.0-SNAPSHOT.jar /path/to/python /path/to/dependency_mining.py /path/to/ -1 -1`
+   - parameters: `/path/to/python` represents the current Python compiler path, `/path/to/dependency_mining.py` indicates the path to the dependency mining Python file, `/path/to` indicates the folder path where the current jar package is located, the first `-1` represents the limit on the number of attributes in the mining data table\[-1 represents unlimited\], the second `-1` represents the limit on the number of rows in the mining data table\[-1 represents unlimited\].
