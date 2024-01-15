@@ -1,0 +1,3 @@
+0	Author
+1	Paper
+2	Journal
