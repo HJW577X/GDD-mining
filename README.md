@@ -17,3 +17,7 @@ Using real-life and synthetic datasets and comparing with the state-of-the-art a
 - itertools
 - Levenshtein
 - multiprocessing
+
+## Execution Steps
+We divide the GDD mining process into the following three steps: 
+### Step one: frequent subgraph mining
