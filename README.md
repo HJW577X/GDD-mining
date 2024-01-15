@@ -43,6 +43,6 @@ python main.py
 The following message appears to indicate that the entire process has been completed. 
 ```
 ```
-You can find all the parameters in `main.py`, and the mined GDD is recorded in the folder `result/`
+You can change all the parameters in `main.py`, and the mined GDD is recorded in the folder `result/`
 ## Dataset
 The graph datasets used in our paper can be downloaded [here](https://drive.google.com/drive/folders/1VodFmIh5UZ4pShYM58x11iR_aRBD9PZ3?usp=drive_link).
