@@ -26,7 +26,7 @@ We divide the GDD mining process into the following three steps:
    - run command: `java -jar GraMi_ExactSubgraphMatching-1.0-SNAPSHOT.jar filename=graph.lg datasetFolder=resource/ freq=20`
    - parameters: `filename` refers to the target graph data file, `datasetFolder` indicates the folder where the graph data is located, `freq` set frequency threshold.
 2. **Homomorphic Subgraph Matching**:
-   - input data in folder: `test/process_1_producer/purePattern2` and `test/process_1_producer/GraphVertices.csv` and `test/process_1_producer/GraphEdges.csv`
+   - input data in folder: `test/process_1_producer/purePattern2`, `test/process_1_producer/GraphVertices.csv`, `test/process_1_producer/GraphEdges.csv`
    - output data in the folder: `test/process_2_producer/pre_Table`
    - run command: `java -jar graphflow-0.1.0.jar`
 3. **Dependency Mining**:
