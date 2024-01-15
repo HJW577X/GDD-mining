@@ -1,0 +1,565 @@
+(0:Author0).id;;(0:Author0).author_name;;(0:Author1).id;;(0:Author1).author_name
+10;;Michael Schwarz 0001;;2;;Paul Kocher
+100150;;Ruisi He;;100149;;Bo Ai 0001
+100151;;Zhangfeng Ma;;100149;;Bo Ai 0001
+100151;;Zhangfeng Ma;;100150;;Ruisi He
+100152;;Zhangdui Zhong;;100149;;Bo Ai 0001
+100152;;Zhangdui Zhong;;100150;;Ruisi He
+100153;;Junhong Wang;;100149;;Bo Ai 0001
+100153;;Junhong Wang;;100150;;Ruisi He
+100154;;Li Pei;;100149;;Bo Ai 0001
+100154;;Li Pei;;100150;;Ruisi He
+100155;;Yujian Li;;100149;;Bo Ai 0001
+100155;;Yujian Li;;100150;;Ruisi He
+100156;;Jing Li 0088;;100149;;Bo Ai 0001
+100156;;Jing Li 0088;;100150;;Ruisi He
+100157;;Ning Wang 0004;;100149;;Bo Ai 0001
+100157;;Ning Wang 0004;;100150;;Ruisi He
+100268;;Victor C. M. Leung;;100264;;Kai Sun 0003
+100268;;Victor C. M. Leung;;100265;;Jingmiao Wu
+100268;;Victor C. M. Leung;;100266;;Haijun Zhang 0001
+100268;;Victor C. M. Leung;;100267;;Hung-Yun Hsieh
+100268;;Victor C. M. Leung;;100575;;Hui Chen 0012
+100268;;Victor C. M. Leung;;100576;;Henry C. B. Chan
+100268;;Victor C. M. Leung;;100607;;Mohammad G. Khoshkholgh
+100268;;Victor C. M. Leung;;103305;;Qianpeng Wang
+100268;;Victor C. M. Leung;;103306;;Deyun Gao
+100268;;Victor C. M. Leung;;103307;;Chuan Heng Foh
+100268;;Victor C. M. Leung;;103308;;Hongke Zhang
+100268;;Victor C. M. Leung;;104368;;Bingcai Chen
+100268;;Victor C. M. Leung;;104369;;Qian Ning
+100268;;Victor C. M. Leung;;104370;;Kai Lin
+100268;;Victor C. M. Leung;;104371;;Chaoqi Han
+100268;;Victor C. M. Leung;;104445;;Rukhsana Ruby
+100268;;Victor C. M. Leung;;104514;;Gang Liu 0007
+100268;;Victor C. M. Leung;;104592;;Xin Ao
+100268;;Victor C. M. Leung;;104593;;Shengming Jiang
+100268;;Victor C. M. Leung;;104594;;Quansheng Guan
+100268;;Victor C. M. Leung;;105052;;Yang Cao 0016
+100268;;Victor C. M. Leung;;108430;;Yuandong Zhuang
+100268;;Victor C. M. Leung;;108892;;Qiang Zheng
+100268;;Victor C. M. Leung;;108893;;Liang Sun 0007
+100268;;Victor C. M. Leung;;109130;;Xin Ge
+100268;;Victor C. M. Leung;;109212;;Qixiang Pang
+100268;;Victor C. M. Leung;;109775;;Yashuang Guo
+100268;;Victor C. M. Leung;;110811;;Chuqiao Yu
+100268;;Victor C. M. Leung;;111033;;Li Zhou 0002
+100268;;Victor C. M. Leung;;111034;;Xiping Hu 0001
+100268;;Victor C. M. Leung;;111035;;Edith C. H. Ngai
+100268;;Victor C. M. Leung;;111036;;Haitao Zhao 0001
+100268;;Victor C. M. Leung;;111037;;Shan Wang 0005
+100268;;Victor C. M. Leung;;111038;;Jibo Wei
+100268;;Victor C. M. Leung;;111246;;Zhenduo Wang
+100268;;Victor C. M. Leung;;111247;;Lin Mei 0002
+100268;;Victor C. M. Leung;;113072;;Yiming Liu 0002
+100268;;Victor C. M. Leung;;113789;;Ye Fan
+100268;;Victor C. M. Leung;;113790;;Zhenzhen Gao
+100268;;Victor C. M. Leung;;113791;;Tong-Xing Zheng
+100268;;Victor C. M. Leung;;114044;;Amir Kenarsari-Anhari
+100268;;Victor C. M. Leung;;115716;;Syed Hussain Ali
+100268;;Victor C. M. Leung;;115851;;Sun Mao
+100268;;Victor C. M. Leung;;116227;;Fancheng Kong
+100268;;Victor C. M. Leung;;116266;;Shengchun Huang
+100268;;Victor C. M. Leung;;116267;;Jiangxing Wu
+100268;;Victor C. M. Leung;;117518;;Shiguo Wang
+100268;;Victor C. M. Leung;;117791;;Shenji Luan
+100268;;Victor C. M. Leung;;118633;;Yupei Liu
+100268;;Victor C. M. Leung;;119205;;Yan Huang 0022
+100268;;Victor C. M. Leung;;119730;;Wen-Bin Sun
+100268;;Victor C. M. Leung;;119923;;Shaozhuang Bai
+100268;;Victor C. M. Leung;;119986;;Wanqing Guan
+100268;;Victor C. M. Leung;;120043;;Xiangnan Liu
+100268;;Victor C. M. Leung;;120236;;Xiuhua Li
+100268;;Victor C. M. Leung;;12033;;Wei Huang
+100268;;Victor C. M. Leung;;121066;;Yaser Pourmohammadi Fallah
+100268;;Victor C. M. Leung;;121067;;Farshid Agharebparast
+100268;;Victor C. M. Leung;;121068;;Mahmood R. Minhas
+100268;;Victor C. M. Leung;;121264;;Junfang Li
+100268;;Victor C. M. Leung;;121367;;Changqing Luo
+100268;;Victor C. M. Leung;;121540;;Jun Fan
+100268;;Victor C. M. Leung;;123896;;Yuanyuan Cao
+100268;;Victor C. M. Leung;;123897;;Mengting Liu
+100268;;Victor C. M. Leung;;124080;;Xinyu Zhang
+100268;;Victor C. M. Leung;;124357;;Fengxian Guo
+100268;;Victor C. M. Leung;;125198;;Jiarun Yu
+100268;;Victor C. M. Leung;;125460;;Tong Xu 0003
+100268;;Victor C. M. Leung;;125523;;Emre A. Yavuz
+100268;;Victor C. M. Leung;;126993;;Hailin Jiang
+100268;;Victor C. M. Leung;;127189;;Xianzhong Tian
+100268;;Victor C. M. Leung;;127325;;Javad Hajipour
+100268;;Victor C. M. Leung;;127326;;Amr Mohamed 0001
+100268;;Victor C. M. Leung;;127606;;Zhiyuan Tan 0002
+100268;;Victor C. M. Leung;;130117;;Yang Xiao
+100268;;Victor C. M. Leung;;131660;;Fen Cheng
+100268;;Victor C. M. Leung;;132201;;Xiaojie Wang 0001
+100268;;Victor C. M. Leung;;132202;;Bin Hu 0001
+100268;;Victor C. M. Leung;;132203;;Jun Cheng 0002
+100268;;Victor C. M. Leung;;132540;;Ji-Chong Guo
+100268;;Victor C. M. Leung;;133161;;Lei Chen 0027
+100268;;Victor C. M. Leung;;182125;;Qiang Liu 0004
+100268;;Victor C. M. Leung;;270606;;Dan Chen 0005
+100268;;Victor C. M. Leung;;273779;;William K. Wong
+100268;;Victor C. M. Leung;;273780;;Helen Y. Tang
+100268;;Victor C. M. Leung;;274131;;Gongliang Liu
+100685;;Guowei Shi;;100149;;Bo Ai 0001
+100685;;Guowei Shi;;100150;;Ruisi He
+101754;;Olivier Renaudin;;100150;;Ruisi He
+101755;;Veli-Matti Kolmonen;;100150;;Ruisi He
+101756;;Katsuyuki Haneda;;100150;;Ruisi He
+101757;;Simon Hubert;;100149;;Bo Ai 0001
+101757;;Simon Hubert;;100150;;Ruisi He
+101758;;Claude Oestges;;100149;;Bo Ai 0001
+101758;;Claude Oestges;;100150;;Ruisi He
+101790;;Neeraj Kumar 0001;;100794;;Biplab Sikdar
+101790;;Neeraj Kumar 0001;;101787;;Gaurang Bansal
+101790;;Neeraj Kumar 0001;;101788;;Naren Naren
+101790;;Neeraj Kumar 0001;;101789;;Vinay Chamola
+101790;;Neeraj Kumar 0001;;105369;;Basudeb Bera
+101790;;Neeraj Kumar 0001;;105370;;Sourav Saha 0002
+101790;;Neeraj Kumar 0001;;105371;;Ashok Kumar Das
+101790;;Neeraj Kumar 0001;;105448;;Arpit Shukla
+101790;;Neeraj Kumar 0001;;105449;;Pronaya Bhattacharya
+101790;;Neeraj Kumar 0001;;105450;;Sudeep Tanwar
+101790;;Neeraj Kumar 0001;;105815;;Jitendra Bhatia
+101790;;Neeraj Kumar 0001;;105816;;Jashvant Dave
+101790;;Neeraj Kumar 0001;;105817;;Madhuri D. Bhavsar
+101790;;Neeraj Kumar 0001;;105888;;Amit Dua
+101790;;Neeraj Kumar 0001;;106279;;Wali Ullah Khan
+101790;;Neeraj Kumar 0001;;106280;;Furqan Jameel
+101790;;Neeraj Kumar 0001;;106297;;Shajina Anand
+101790;;Neeraj Kumar 0001;;106298;;Gunasekaran Raja
+101790;;Neeraj Kumar 0001;;109421;;Jangirala Srinivas
+101790;;Neeraj Kumar 0001;;110381;;Gagangeet Singh Aujla
+101790;;Neeraj Kumar 0001;;110382;;Amritpal Singh
+101790;;Neeraj Kumar 0001;;110383;;Maninderpal Singh
+101790;;Neeraj Kumar 0001;;110384;;Sumit Sharma 0006
+101790;;Neeraj Kumar 0001;;111276;;Jian Shen 0001
+101790;;Neeraj Kumar 0001;;111277;;Dengzhi Liu
+101790;;Neeraj Kumar 0001;;111278;;Xiaofeng Chen 0001
+101790;;Neeraj Kumar 0001;;111279;;Jin Li 0002
+101790;;Neeraj Kumar 0001;;112925;;Kuljeet Kaur
+101790;;Neeraj Kumar 0001;;112926;;Anish Jindal
+101790;;Neeraj Kumar 0001;;113086;;Seyedali Mirjalili
+101790;;Neeraj Kumar 0001;;113339;;Shiva Raj Pokhrel
+101790;;Neeraj Kumar 0001;;113444;;Ishan Budhiraja
+101790;;Neeraj Kumar 0001;;113715;;Sahaya Beni Prathiba
+101790;;Neeraj Kumar 0001;;113716;;Kapal Dev
+101790;;Neeraj Kumar 0001;;114966;;Haotong Cao
+101790;;Neeraj Kumar 0001;;114967;;Daniel Xiapu Luo
+101790;;Neeraj Kumar 0001;;116240;;Rajat Chaudhary
+101790;;Neeraj Kumar 0001;;117931;;Li Zhen
+101790;;Neeraj Kumar 0001;;117932;;Yukun Zhang
+101790;;Neeraj Kumar 0001;;117933;;Keping Yu
+101790;;Neeraj Kumar 0001;;120878;;Ashutosh Sancheti
+101790;;Neeraj Kumar 0001;;120965;;Xinghua Li
+101790;;Neeraj Kumar 0001;;120966;;Mengfan Xu
+101790;;Neeraj Kumar 0001;;121534;;Yunwei Wang
+101790;;Neeraj Kumar 0001;;121925;;Sailakshmi Suresh
+101790;;Neeraj Kumar 0001;;122668;;Shubhani Aggarwal
+101790;;Neeraj Kumar 0001;;129434;;Pan Yang 0023
+101790;;Neeraj Kumar 0001;;130274;;Anil Kumar Sutrala
+101790;;Neeraj Kumar 0001;;131922;;Upendra Singh
+101790;;Neeraj Kumar 0001;;132191;;Muhammad Asghar Khan
+101790;;Neeraj Kumar 0001;;132192;;Insaf Ullah
+101790;;Neeraj Kumar 0001;;132310;;Sugeerthi Gurumoorthy
+101790;;Neeraj Kumar 0001;;168038;;Hari Mohan Pandey
+101790;;Neeraj Kumar 0001;;168039;;Nik Bessis
+101790;;Neeraj Kumar 0001;;180450;;Suman Kumar Bera
+101790;;Neeraj Kumar 0001;;200628;;Mohil Maheshkumar Patel
+101790;;Neeraj Kumar 0001;;200629;;Rajesh Gupta 0007
+101790;;Neeraj Kumar 0001;;201481;;Dheerendra Mishra
+101790;;Neeraj Kumar 0001;;201482;;Dharminder Dharminder
+101790;;Neeraj Kumar 0001;;201483;;Preeti Yadav
+101790;;Neeraj Kumar 0001;;201484;;Y. Sreenivasa Rao
+101790;;Neeraj Kumar 0001;;202259;;Jay Shah
+101790;;Neeraj Kumar 0001;;202260;;Sarthak Agarwal
+101790;;Neeraj Kumar 0001;;204286;;Makwana Bhavin
+101790;;Neeraj Kumar 0001;;204287;;Navneet Sharma
+101790;;Neeraj Kumar 0001;;234870;;R. Elakkiya
+101790;;Neeraj Kumar 0001;;268541;;Arun Solanki
+101790;;Neeraj Kumar 0001;;268542;;Richa Kondal
+101790;;Neeraj Kumar 0001;;268543;;Anand Nayyar
+101790;;Neeraj Kumar 0001;;269975;;Rasmeet S. Bali
+101790;;Neeraj Kumar 0001;;271065;;Xiaoying Jia 0002
+101790;;Neeraj Kumar 0001;;271200;;Abhay Bindle
+101790;;Neeraj Kumar 0001;;271201;;Tarun Gulati
+101790;;Neeraj Kumar 0001;;271586;;Shriya Kaneriya
+101790;;Neeraj Kumar 0001;;272466;;Rakeshkumar Vanzara
+101790;;Neeraj Kumar 0001;;272467;;Priyanka Sharma
+101790;;Neeraj Kumar 0001;;272468;;Haresh S. Bhatt
+101790;;Neeraj Kumar 0001;;272511;;Kuan Fan
+101790;;Neeraj Kumar 0001;;275035;;Poonam Reshma Dsouza
+101790;;Neeraj Kumar 0001;;275036;;Vivekananda Bhat K.
+101966;;Jianzhi Li;;100149;;Bo Ai 0001
+101966;;Jianzhi Li;;100150;;Ruisi He
+101967;;Bei Zhang 0003;;100149;;Bo Ai 0001
+101967;;Bei Zhang 0003;;100150;;Ruisi He
+103635;;F. Richard Yu;;103633;;Zhexiong Wei
+103635;;F. Richard Yu;;103634;;Helen Tang
+103635;;F. Richard Yu;;104514;;Gang Liu 0007
+103635;;F. Richard Yu;;104592;;Xin Ao
+103635;;F. Richard Yu;;105052;;Yang Cao 0016
+103635;;F. Richard Yu;;105437;;Yifei Zhao
+103635;;F. Richard Yu;;105438;;Lihua Li 0001
+103635;;F. Richard Yu;;107171;;Junlin Zhang
+103635;;F. Richard Yu;;107241;;Zun Liu
+103635;;F. Richard Yu;;107242;;Jianqiang Li 0001
+103635;;F. Richard Yu;;107454;;Qi Qi 0001
+103635;;F. Richard Yu;;107455;;Lingxin Zhang
+103635;;F. Richard Yu;;107456;;Jingyu Wang 0001
+103635;;F. Richard Yu;;107457;;Haifeng Sun 0001
+103635;;F. Richard Yu;;107458;;Zirui Zhuang
+103635;;F. Richard Yu;;107459;;Jianxin Liao
+103635;;F. Richard Yu;;108983;;Qiong Shi
+103635;;F. Richard Yu;;108984;;Yaoyuan Zhang
+103635;;F. Richard Yu;;109775;;Yashuang Guo
+103635;;F. Richard Yu;;112952;;Jianbo Du
+103635;;F. Richard Yu;;113072;;Yiming Liu 0002
+103635;;F. Richard Yu;;113615;;Shengrong Bu
+103635;;F. Richard Yu;;113846;;Yegui Cai
+103635;;F. Richard Yu;;114338;;Yifei Wei
+103635;;F. Richard Yu;;114860;;Ali Y. Al-Zahrani
+103635;;F. Richard Yu;;114966;;Haotong Cao
+103635;;F. Richard Yu;;114967;;Daniel Xiapu Luo
+103635;;F. Richard Yu;;114968;;Longxiang Yang
+103635;;F. Richard Yu;;115071;;Fan Ang
+103635;;F. Richard Yu;;115273;;Yuxia Cheng
+103635;;F. Richard Yu;;115274;;Chengchao Liang
+103635;;F. Richard Yu;;115301;;Anirudh Srinivasan Chakravarthy
+103635;;F. Richard Yu;;115302;;Soumendu Sinha
+103635;;F. Richard Yu;;115303;;Pratik Narang
+103635;;F. Richard Yu;;115304;;Murari Mandal
+103635;;F. Richard Yu;;116070;;Zhongming Ji
+103635;;F. Richard Yu;;116463;;Renchao Xie
+103635;;F. Richard Yu;;117342;;Chen-meng Wang
+103635;;F. Richard Yu;;117898;;Zhicai Zhang
+103635;;F. Richard Yu;;117899;;Ru Wang
+103635;;F. Richard Yu;;120301;;Jingfu Li
+103635;;F. Richard Yu;;120302;;Wenjiang Feng
+103635;;F. Richard Yu;;120431;;Ruiyan Han
+103635;;F. Richard Yu;;121367;;Changqing Luo
+103635;;F. Richard Yu;;123408;;Yiwen Nie
+103635;;F. Richard Yu;;123560;;Chao Qiu
+103635;;F. Richard Yu;;124080;;Xinyu Zhang
+103635;;F. Richard Yu;;124357;;Fengxian Guo
+103635;;F. Richard Yu;;124650;;Jing Song
+103635;;F. Richard Yu;;125425;;Min Qin
+103635;;F. Richard Yu;;125889;;Mengyao Wu
+103635;;F. Richard Yu;;126292;;Dongyu Wang
+103635;;F. Richard Yu;;126443;;Xiaoyuan Fu
+103635;;F. Richard Yu;;126530;;Bo Gu
+103635;;F. Richard Yu;;127606;;Zhiyuan Tan 0002
+103635;;F. Richard Yu;;127774;;Yongkang Gong
+103635;;F. Richard Yu;;127775;;Liang Jiang
+103635;;F. Richard Yu;;128995;;Zhiqiang Li
+103635;;F. Richard Yu;;129799;;Vikas Saxena
+103635;;F. Richard Yu;;131660;;Fen Cheng
+103635;;F. Richard Yu;;132251;;Yi Sun 0009
+103635;;F. Richard Yu;;132468;;Shuo Zhao
+103635;;F. Richard Yu;;133124;;Yuqing Li
+103635;;F. Richard Yu;;133125;;Yuguang Tian
+103635;;F. Richard Yu;;133161;;Lei Chen 0027
+103635;;F. Richard Yu;;271951;;Chenying Ren
+103635;;F. Richard Yu;;273816;;Yongfu Hou
+103774;;Xiaodan Zhang;;100149;;Bo Ai 0001
+104206;;Junling Shi;;104205;;Guangjie Han
+104207;;Lijun Gao;;104205;;Guangjie Han
+105104;;Zhiqin Wang;;100149;;Bo Ai 0001
+105263;;Gongpu Wang;;100149;;Bo Ai 0001
+105263;;Gongpu Wang;;100150;;Ruisi He
+105697;;Aini Gong;;104205;;Guangjie Han
+105698;;Hao Wang 0047;;104205;;Guangjie Han
+105699;;Chuan Lin 0001;;104205;;Guangjie Han
+105700;;Miguel Martinez-Garcia;;104205;;Guangjie Han
+105701;;Yan Peng 0001;;104205;;Guangjie Han
+106032;;Wenjun Xu 0001;;100149;;Bo Ai 0001
+106033;;Easton Li Xu;;100149;;Bo Ai 0001
+106233;;Yangli-ao Geng;;100149;;Bo Ai 0001
+106233;;Yangli-ao Geng;;100150;;Ruisi He
+106234;;Zhimeng Zhong;;100149;;Bo Ai 0001
+106234;;Zhimeng Zhong;;100150;;Ruisi He
+106235;;Qingyong Li;;100149;;Bo Ai 0001
+106235;;Qingyong Li;;100150;;Ruisi He
+108176;;Zeren Zhou;;104205;;Guangjie Han
+108177;;Tongwei Zhang;;104205;;Guangjie Han
+108178;;Li Liu 0022;;104205;;Guangjie Han
+108839;;Meilin Gao;;100149;;Bo Ai 0001
+109145;;Haoxiang Zhang;;100149;;Bo Ai 0001
+109145;;Haoxiang Zhang;;100150;;Ruisi He
+109497;;Xiang Su;;100149;;Bo Ai 0001
+109497;;Xiang Su;;100150;;Ruisi He
+110452;;Yu He;;104205;;Guangjie Han
+110453;;James Adu Ansere;;104205;;Guangjie Han
+110716;;Jingya Yang;;100149;;Bo Ai 0001
+111002;;Yuanguo Bi;;104205;;Guangjie Han
+111003;;Jiaxin Du;;104205;;Guangjie Han
+112177;;Yu Zhang 0001;;104205;;Guangjie Han
+112178;;Miguel Martínez-García;;104205;;Guangjie Han
+112179;;Ling Xie;;104205;;Guangjie Han
+112637;;Antonio Pérez Yuste;;100149;;Bo Ai 0001
+112765;;Juan Moreno García-Loygorri;;100149;;Bo Ai 0001
+112766;;Andrej Hrovat;;100149;;Bo Ai 0001
+112799;;Songjie Shen;;104205;;Guangjie Han
+112982;;Wei Huang 0023;;104205;;Guangjie Han
+112983;;Chan Xu;;104205;;Guangjie Han
+113199;;Kaiguo Fan;;104205;;Guangjie Han
+113841;;Hongliang Zhang;;100149;;Bo Ai 0001
+114088;;Yujie Qian;;104205;;Guangjie Han
+114231;;Lei Yan;;104205;;Guangjie Han
+114812;;Yiru Liu;;100149;;Bo Ai 0001
+114812;;Yiru Liu;;100150;;Ruisi He
+115933;;Bing Hui;;100150;;Ruisi He
+116541;;Xiping Wang;;100149;;Bo Ai 0001
+116542;;Chunfu Zheng;;100149;;Bo Ai 0001
+116543;;César Briso-Rodríguez;;100149;;Bo Ai 0001
+117394;;Yun Hou;;104205;;Guangjie Han
+117697;;Yang Miao;;100149;;Bo Ai 0001
+117697;;Yang Miao;;100150;;Ruisi He
+117698;;Ruifeng Chen;;100149;;Bo Ai 0001
+117698;;Ruifeng Chen;;100150;;Ruisi He
+118342;;Xiaohan Long;;104205;;Guangjie Han
+118343;;Chuan Zhu;;104205;;Guangjie Han
+118703;;Linlin Guo;;104205;;Guangjie Han
+120162;;Xibing Li;;104205;;Guangjie Han
+120163;;Qingchun Hu;;104205;;Guangjie Han
+120230;;Shiyuan Tong;;104205;;Guangjie Han
+121549;;Xue Lin;;100149;;Bo Ai 0001
+122522;;Erol Hepsaydir;;100149;;Bo Ai 0001
+123402;;Huiying Jiao;;100150;;Ruisi He
+123921;;Xia Chen 0006;;100149;;Bo Ai 0001
+126945;;Xingyue Qi;;104205;;Guangjie Han
+128319;;Xu Miao;;104205;;Guangjie Han
+130174;;Yusi Chen;;104205;;Guangjie Han
+130175;;Jinlin Peng;;104205;;Guangjie Han
+130477;;Marcos Liso Nicolas;;100149;;Bo Ai 0001
+130478;;Robert Geise;;100149;;Bo Ai 0001
+130479;;Andreas Moller;;100149;;Bo Ai 0001
+132359;;Panpan Li;;100149;;Bo Ai 0001
+132359;;Panpan Li;;100150;;Ruisi He
+132360;;Jianwen Ding;;100149;;Bo Ai 0001
+132360;;Jianwen Ding;;100150;;Ruisi He
+132361;;Dan Fei;;100149;;Bo Ai 0001
+132361;;Dan Fei;;100150;;Ruisi He
+133966;;Guo Zhang;;133965;;Ying Ding 0001
+133967;;Liansheng Meng;;133965;;Ying Ding 0001
+135100;;Arthur R. Frazho;;133965;;Ying Ding 0001
+135784;;Elin K. Jacob;;133965;;Ying Ding 0001
+135785;;Michael A. H. Fried;;133965;;Ying Ding 0001
+135786;;Ioan Toma;;133965;;Ying Ding 0001
+135787;;Schubert Foo;;133965;;Ying Ding 0001
+135788;;Stasa Milojevic;;133965;;Ying Ding 0001
+138046;;Jie Tang 0001;;133965;;Ying Ding 0001
+138047;;Gordon Guo-Zheng Sun;;133965;;Ying Ding 0001
+138048;;Enguo Zhou;;133965;;Ying Ding 0001
+138386;;Xingkun Liang;;133965;;Ying Ding 0001
+138387;;Gege Gao;;133965;;Ying Ding 0001
+139767;;Lei Pei;;133965;;Ying Ding 0001
+139788;;Wei Lu 0019;;133965;;Ying Ding 0001
+13997;;Joel J. P. C. Rodrigues;;109421;;Jangirala Srinivas
+13997;;Joel J. P. C. Rodrigues;;122842;;Venkatasamy Sureshkumar
+13997;;Joel J. P. C. Rodrigues;;122843;;P. Chinnaraj
+13997;;Joel J. P. C. Rodrigues;;122844;;P. Saravanan 0001
+13997;;Joel J. P. C. Rodrigues;;123460;;Palak Bagga
+13997;;Joel J. P. C. Rodrigues;;123461;;Mohammad Wazid
+13997;;Joel J. P. C. Rodrigues;;128092;;Rahul Saha
+13997;;Joel J. P. C. Rodrigues;;128093;;Gulshan Kumar
+13997;;Joel J. P. C. Rodrigues;;128094;;G. Geetha 0001
+13997;;Joel J. P. C. Rodrigues;;128095;;Tai-Hoon Kim
+13997;;Joel J. P. C. Rodrigues;;128096;;Reji Thomas
+13997;;Joel J. P. C. Rodrigues;;128097;;Mritunjay Kumar Rai
+13997;;Joel J. P. C. Rodrigues;;128924;;Buddhadeb Pradhan
+13997;;Joel J. P. C. Rodrigues;;128925;;Arijit Nandi
+13997;;Joel J. P. C. Rodrigues;;128926;;Nirmal Baran Hui
+13997;;Joel J. P. C. Rodrigues;;128927;;Diptendu Sinha Roy
+13997;;Joel J. P. C. Rodrigues;;129533;;William J. Buchanan
+13997;;Joel J. P. C. Rodrigues;;130274;;Anil Kumar Sutrala
+13997;;Joel J. P. C. Rodrigues;;13994;;Nana Yaw Asabere
+13997;;Joel J. P. C. Rodrigues;;13995;;Feng Xia 0001
+13997;;Joel J. P. C. Rodrigues;;13996;;Wei Wang 0077
+13997;;Joel J. P. C. Rodrigues;;163845;;Anurag Satpathy
+13997;;Joel J. P. C. Rodrigues;;163846;;Manmath Narayan Sahoo
+13997;;Joel J. P. C. Rodrigues;;163847;;Ashutosh Mishra
+13997;;Joel J. P. C. Rodrigues;;167417;;Bright Keswani
+13997;;Joel J. P. C. Rodrigues;;167418;;Amarjeet Mohanty
+13997;;Joel J. P. C. Rodrigues;;167419;;Ashish Khanna
+13997;;Joel J. P. C. Rodrigues;;172707;;Germanno Teles
+13997;;Joel J. P. C. Rodrigues;;201434;;Soumya Banerjee 0001
+13997;;Joel J. P. C. Rodrigues;;201435;;Sandip Roy 0001
+13997;;Joel J. P. C. Rodrigues;;201436;;Vanga Odelu
+13997;;Joel J. P. C. Rodrigues;;269667;;Luiz Oliveira 0002
+13997;;Joel J. P. C. Rodrigues;;269975;;Rasmeet S. Bali
+13997;;Joel J. P. C. Rodrigues;;270436;;Binod Vaidya
+13997;;Joel J. P. C. Rodrigues;;270904;;Mudathir F. S. Yagoub
+13997;;Joel J. P. C. Rodrigues;;271052;;Renato William R. de Souza
+13997;;Joel J. P. C. Rodrigues;;271053;;Leonardo R. Moreira
+13997;;Joel J. P. C. Rodrigues;;271143;;Abdallah Mustafa Abdelrahman
+13997;;Joel J. P. C. Rodrigues;;271720;;Goutham Reddy Alavalapati
+13997;;Joel J. P. C. Rodrigues;;271779;;Raja Wasim Ahmad
+13997;;Joel J. P. C. Rodrigues;;271780;;Siti Hafizah Ab Hamid
+13997;;Joel J. P. C. Rodrigues;;271781;;Abdelmuttlib Ibrahim Abdallaahmed
+13997;;Joel J. P. C. Rodrigues;;272382;;Lorena Parra
+13997;;Joel J. P. C. Rodrigues;;272383;;Sandra Sendra
+13997;;Joel J. P. C. Rodrigues;;273197;;Arun Kumar 0013
+13997;;Joel J. P. C. Rodrigues;;273198;;Sahil Gupta
+13997;;Joel J. P. C. Rodrigues;;273293;;Anjum Naveed
+13997;;Joel J. P. C. Rodrigues;;273510;;Tauqeer Khalid
+13997;;Joel J. P. C. Rodrigues;;273511;;Muhammad Abbas Khan Abbasi
+13997;;Joel J. P. C. Rodrigues;;273512;;Maria Zuraiz
+13997;;Joel J. P. C. Rodrigues;;273630;;El Hadji Malick Ndoye
+13997;;Joel J. P. C. Rodrigues;;273631;;Ousmane Diallo
+13997;;Joel J. P. C. Rodrigues;;273632;;Nadir Hakem
+13997;;Joel J. P. C. Rodrigues;;273633;;Frédérique Jacquet
+13997;;Joel J. P. C. Rodrigues;;273634;;Michel Misson
+13997;;Joel J. P. C. Rodrigues;;274153;;Papa Ndiaga Ba
+13997;;Joel J. P. C. Rodrigues;;275035;;Poonam Reshma Dsouza
+13997;;Joel J. P. C. Rodrigues;;275036;;Vivekananda Bhat K.
+13997;;Joel J. P. C. Rodrigues;;275220;;Javid Ali
+13997;;Joel J. P. C. Rodrigues;;275221;;Tahir Maqsood
+13997;;Joel J. P. C. Rodrigues;;277041;;Luís M. L. Oliveira
+13997;;Joel J. P. C. Rodrigues;;277042;;Amaro F. de Sousa
+13997;;Joel J. P. C. Rodrigues;;277388;;Sweta Jain
+13997;;Joel J. P. C. Rodrigues;;277389;;Meenu Chawla
+13997;;Joel J. P. C. Rodrigues;;277390;;Vasco N. G. J. Soares
+13997;;Joel J. P. C. Rodrigues;;277929;;Paulo Régis C. de Araújo
+13997;;Joel J. P. C. Rodrigues;;277930;;Raimir Holanda Filho
+140471;;Bing He;;133965;;Ying Ding 0001
+140472;;Zheng Qin;;133965;;Ying Ding 0001
+140473;;Juanzi Li;;133965;;Ying Ding 0001
+140474;;Tianxi Dong;;133965;;Ying Ding 0001
+141055;;Xiaowen Dai;;133965;;Ying Ding 0001
+141056;;John Du;;133965;;Ying Ding 0001
+141057;;Jingwei Zhang;;133965;;Ying Ding 0001
+141058;;Shoubin Kong;;133965;;Ying Ding 0001
+141425;;Dakota S. Murray;;133965;;Ying Ding 0001
+141635;;Zhixiong Zhang;;133965;;Ying Ding 0001
+141636;;Nicolas L. George;;133965;;Ying Ding 0001
+141637;;Lijiang Guo;;133965;;Ying Ding 0001
+142801;;Xiaolong Wang 0009;;133965;;Ying Ding 0001
+142802;;Chengxiang Zhai;;133965;;Ying Ding 0001
+145903;;Weizhong Qian;;133965;;Ying Ding 0001
+146581;;Hezhao Zhang;;133965;;Ying Ding 0001
+146612;;Matthew Schnaars;;133965;;Ying Ding 0001
+16363;;Ignacio E. Grossmann;;16361;;David M. Thierry
+16363;;Ignacio E. Grossmann;;16362;;Antonio Flores-Tlacuahuac
+16363;;Ignacio E. Grossmann;;16416;;José Antonio Caballero
+16363;;Ignacio E. Grossmann;;16750;;Pablo García-Herreros
+16363;;Ignacio E. Grossmann;;16751;;Anshul Agarwal
+16363;;Ignacio E. Grossmann;;16752;;John M. Wassick
+16363;;Ignacio E. Grossmann;;16774;;Bruno A. Calfa
+16363;;Ignacio E. Grossmann;;16837;;Sebastian Terrazas-Moreno
+16363;;Ignacio E. Grossmann;;16838;;Philipp A. Trotter
+16363;;Ignacio E. Grossmann;;17165;;Marcelo Escobar
+16363;;Ignacio E. Grossmann;;17399;;Brenno C. Menezes
+16363;;Ignacio E. Grossmann;;17400;;Jeffrey Dean Kelly
+16363;;Ignacio E. Grossmann;;17722;;Christian D. Hubbs
+16363;;Ignacio E. Grossmann;;17723;;Can Li
+16363;;Ignacio E. Grossmann;;17841;;Qi Chen
+16363;;Ignacio E. Grossmann;;17842;;Yunshan Liu
+16363;;Ignacio E. Grossmann;;17843;;Grant Seastream
+16363;;Ignacio E. Grossmann;;17844;;John D. Siirola
+16363;;Ignacio E. Grossmann;;17911;;Hector Alejandro Pedrozo
+16363;;Ignacio E. Grossmann;;17912;;Sabrina Belen Rodriguez Reartes
+16363;;Ignacio E. Grossmann;;17913;;David E. Bernal
+16363;;Ignacio E. Grossmann;;18129;;Yixin Ye
+16363;;Ignacio E. Grossmann;;18394;;Scott P. Kolodziej
+16363;;Ignacio E. Grossmann;;18917;;Ramkumar Karuppiah
+16363;;Ignacio E. Grossmann;;19048;;Sumit Mitra
+16363;;Ignacio E. Grossmann;;19387;;Edna Soraya Rawlings
+16363;;Ignacio E. Grossmann;;19621;;Lijie Su
+16363;;Ignacio E. Grossmann;;19622;;Lixin Tang
+16363;;Ignacio E. Grossmann;;20061;;Jochen L. Cremer
+16363;;Ignacio E. Grossmann;;20074;;Yongheng Jiang
+16363;;Ignacio E. Grossmann;;20300;;Maria Paz Ochoa
+16363;;Ignacio E. Grossmann;;20506;;Vijay Gupta
+16363;;Ignacio E. Grossmann;;20701;;Robert M. Apap
+16363;;Ignacio E. Grossmann;;20726;;Sangbum Lee
+16363;;Ignacio E. Grossmann;;21116;;Leonardo Salsano de Assis
+16363;;Ignacio E. Grossmann;;21636;;Zhi Qian
+16363;;Ignacio E. Grossmann;;21750;;Braulio Brunaud
+16363;;Ignacio E. Grossmann;;21751;;Matthew H. Bassett
+16363;;Ignacio E. Grossmann;;22371;;Natalia Quirante
+16363;;Ignacio E. Grossmann;;22386;;Li-Juan Li
+16363;;Ignacio E. Grossmann;;22387;;Rui-Jie Zhou
+16363;;Ignacio E. Grossmann;;22388;;Hong-Guang Dong
+16363;;Ignacio E. Grossmann;;22537;;Michael F. Morari
+16363;;Ignacio E. Grossmann;;23073;;Elvis Ahmetovic
+16363;;Ignacio E. Grossmann;;23074;;Nidret Ibric
+16363;;Ignacio E. Grossmann;;23125;;Susara Van den Heever
+16363;;Ignacio E. Grossmann;;23140;;Sylvain Mouret
+16363;;Ignacio E. Grossmann;;23495;;Stephen Stamatis
+16363;;Ignacio E. Grossmann;;23710;;Cristiana L. Lara
+16363;;Ignacio E. Grossmann;;24097;;Abigail Ondeck
+16363;;Ignacio E. Grossmann;;24098;;Markus Drouven
+16363;;Ignacio E. Grossmann;;24099;;Nathan Blandino
+16363;;Ignacio E. Grossmann;;24531;;Erdem Arslan
+16363;;Ignacio E. Grossmann;;24532;;Sanjay Mehta
+16363;;Ignacio E. Grossmann;;24806;;Francisco Trespalacios
+16363;;Ignacio E. Grossmann;;25110;;Ricardo M. Lima
+16363;;Ignacio E. Grossmann;;25348;;Bora Tarhan
+16363;;Ignacio E. Grossmann;;25518;;Xuan Chen
+16363;;Ignacio E. Grossmann;;25685;;María Fresnedo San Román
+16363;;Ignacio E. Grossmann;;25686;;Eugenio Bringas
+16363;;Ignacio E. Grossmann;;25924;;M. A. H. van Elzakker
+16363;;Ignacio E. Grossmann;;25925;;N. B. Raikar
+16363;;Ignacio E. Grossmann;;25926;;Hans Hoogland
+16363;;Ignacio E. Grossmann;;26120;;Yang Chen 0025
+16363;;Ignacio E. Grossmann;;26224;;Nadir N. Ziyatdinov
+16363;;Ignacio E. Grossmann;;26225;;Ilya I. Emel'yanov
+16363;;Ignacio E. Grossmann;;26302;;Vikas Goel
+16363;;Ignacio E. Grossmann;;26468;;María Lorena Bergamini
+16363;;Ignacio E. Grossmann;;26514;;Soumitra Ghosh
+16363;;Ignacio E. Grossmann;;26515;;T. Zhu
+16363;;Ignacio E. Grossmann;;26620;;Pablo A. Marchetti
+16363;;Ignacio E. Grossmann;;26736;;Haokun Yang
+16363;;Ignacio E. Grossmann;;26737;;Faramroze G. Engineer
+16363;;Ignacio E. Grossmann;;26738;;Kysang Kwon
+16363;;Ignacio E. Grossmann;;26739;;Sechan Lee
+16363;;Ignacio E. Grossmann;;26855;;Edgar Perea-López
+16363;;Ignacio E. Grossmann;;27325;;Ashish Agarwal
+16363;;Ignacio E. Grossmann;;27444;;Hector D. Perez
+16363;;Ignacio E. Grossmann;;28650;;Roger Rocha
+16363;;Ignacio E. Grossmann;;29233;;Muge Erdirik-Dogan
+16363;;Ignacio E. Grossmann;;29386;;Pengfei Cheng
+16363;;Ignacio E. Grossmann;;29387;;Mangalam Lalpuria
+16363;;Ignacio E. Grossmann;;29459;;Shengnan Zhao
+16363;;Ignacio E. Grossmann;;29532;;Esra Erisen
+16363;;Ignacio E. Grossmann;;29571;;J. Balasubramanian
+165202;;Jin Wang 0001;;104205;;Guangjie Han
+165414;;Rabia Bibi;;165413;;Muhammad Asif Zahoor Raja
+165415;;Naveed Ishtiaq Chaudhary;;165413;;Muhammad Asif Zahoor Raja
+165416;;Muhammad Saeed Aslam;;165413;;Muhammad Asif Zahoor Raja
+166932;;Najeeb Alam Khan;;165413;;Muhammad Asif Zahoor Raja
+166933;;Muhammad Anwaar Manzar;;165413;;Muhammad Asif Zahoor Raja
+168081;;Muhammad Nawaz;;165413;;Muhammad Asif Zahoor Raja
+168082;;Syed Muslim Shah;;165413;;Muhammad Asif Zahoor Raja
+168902;;Raza Samar;;165413;;Muhammad Asif Zahoor Raja
+169099;;Shahab Ahmad Niazi;;165413;;Muhammad Asif Zahoor Raja
+169315;;Zulqurnain Sabir;;165413;;Muhammad Asif Zahoor Raja
+169316;;Nasir Mehmood;;165413;;Muhammad Asif Zahoor Raja
+169317;;Eman Salem Alaidarous;;165413;;Muhammad Asif Zahoor Raja
+169431;;Adiqa Kausar Kiani;;165413;;Muhammad Asif Zahoor Raja
+169432;;Azam Shehzad;;165413;;Muhammad Asif Zahoor Raja
+169433;;Muhammad Abdul Rehman Khan;;165413;;Muhammad Asif Zahoor Raja
+172889;;Muhammad Shoaib;;165413;;Muhammad Asif Zahoor Raja
+173763;;Hira Naz;;165413;;Muhammad Asif Zahoor Raja
+175309;;Asad Masood Khattak;;104205;;Guangjie Han
+176995;;Jabran Mehmood;;165413;;Muhammad Asif Zahoor Raja
+176996;;A. Kazemi Nasab;;165413;;Muhammad Asif Zahoor Raja
+177032;;Muhammed I. Syam;;165413;;Muhammad Asif Zahoor Raja
+177033;;Shujaat Ali Khan Tanoli;;165413;;Muhammad Asif Zahoor Raja
+177034;;Saeed Ehsan Awan;;165413;;Muhammad Asif Zahoor Raja
+178480;;Abbas Ali Shah;;165413;;Muhammad Asif Zahoor Raja
+179007;;Fiaz Hussain Shah;;165413;;Muhammad Asif Zahoor Raja
+179008;;Muhammad Ibrahim Syam;;165413;;Muhammad Asif Zahoor Raja
+182105;;Farrukh A. Khan;;165413;;Muhammad Asif Zahoor Raja
+182106;;Nebojsa Dedovic;;165413;;Muhammad Asif Zahoor Raja
+182447;;Hira Ilyas;;165413;;Muhammad Asif Zahoor Raja
+182448;;Zarqa Azad;;165413;;Muhammad Asif Zahoor Raja
+182713;;Juan Luis García Guirao;;165413;;Muhammad Asif Zahoor Raja
+182714;;Tareq Saeed;;165413;;Muhammad Asif Zahoor Raja
+184970;;Muhammad Tariq;;165413;;Muhammad Asif Zahoor Raja
+185148;;Zaheer Ahmed;;165413;;Muhammad Asif Zahoor Raja
+185149;;Ata Ur Rehman;;165413;;Muhammad Asif Zahoor Raja
+185459;;Djilali Behloul;;165413;;Muhammad Asif Zahoor Raja
+186859;;Naseer Ahmed;;165413;;Muhammad Asif Zahoor Raja
+186865;;Adeel Ahmad Khan;;165413;;Muhammad Asif Zahoor Raja

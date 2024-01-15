@@ -1,0 +1,8 @@
+{Author0.author_name=Michael Schwarz 0001} -> Author1.id=Author2.id
+{Author1.author_name=Paul Kocher} -> Author1.id=Author2.id
+{Author2.author_name=Paul Kocher} -> Author1.id=Author2.id
+{Author1.author_name=Author2.author_name} -> Author1.id=Author2.id
+
+literalNumber 184 attriNumber 2
+before: dependency number 4
+after: dependency number 4
