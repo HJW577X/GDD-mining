@@ -6,3 +6,14 @@ In this paper, we propose a novel GDD mining approach combining graph partitioni
 We implement the graph pattern mining and GDD mining respectively and simplify graph patterns and data graphs to improve its efficiency. 
 Using real-life and synthetic datasets and comparing with the state-of-the-art approach of GDD mining, we experimentally verify the efficiency of the algorithm.
 ![pipeline](pipeline.jpg)
+
+## System Requirements
+- Java 1.8
+- Python 3
+
+## Python Dependencies
+- pandas
+- glob
+- itertools
+- Levenshtein
+- multiprocessing
