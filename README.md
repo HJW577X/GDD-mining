@@ -37,7 +37,9 @@ We divide the GDD mining process into the following three steps:
 
 ## Running Example
 We provide an toy example dataset in the folder `resource/`, you can complete the above three steps by executing the following command: 
-```python main.py```
+```
+python main.py
+```
 The following message appears to indicate that the entire process has been completed. 
 ```
 ```
