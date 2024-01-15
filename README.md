@@ -20,4 +20,8 @@ Using real-life and synthetic datasets and comparing with the state-of-the-art a
 
 ## Execution Steps
 We divide the GDD mining process into the following three steps: 
-### Step one: frequent subgraph mining
+1. **Frequent Subgraph Mining**:
+   - input data in folder: `resource/`
+   - output data in the folder: `test/process_1_producer/queryGraph`
+   - run command: `java -jar GraMi_ExactSubgraphMatching-1.0-SNAPSHOT.jar filename=graph.lg datasetFolder=resource/ freq=20`
+   - parameter: `filename` refers to the target graph data file, `datasetFolder` indicates the folder where the graph data is located, `freq` set frequency threshold.
