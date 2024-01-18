@@ -42,6 +42,6 @@ We provide an toy example dataset in the folder `resource/`, you can complete th
 The following message appears to indicate that the entire process has been completed. 
 ```
 ```
-You can change all the parameters in ``, and the mined GDD is recorded in the folder `result/`
+You can change all the parameters in `TBC`, and the mined GDD is recorded in the folder `result/`
 ## Dataset
 The graph datasets used in our paper can be downloaded [here](https://drive.google.com/drive/folders/1VodFmIh5UZ4pShYM58x11iR_aRBD9PZ3?usp=drive_link).
